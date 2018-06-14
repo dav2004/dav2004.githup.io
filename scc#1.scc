@@ -1,0 +1,40 @@
+color:#00ff00;
+}
+dd {
+color:#b30000;
+}
+ul {
+color:#3232cd;
+margin:15px;
+}
+.dav {
+color:#ff3333 ;
+margin:15px;
+}
+.message {
+background-color: #ffff00;
+  border: 2px solid #e6ffff;
+  font-size:20px;
+  color:#000000;
+  margin:15px;
+  padding:20px;
+}
+.davs {
+background-color:#ffff00;
+border: 2px solid #e6ffff;
+color:#000000;
+padding:50px;
+margin:15px;
+
+}
+
+.message:hover  {
+border:25px solid #ffffff
+
+}
+
+
+.davs:hover  {
+border:25px solid #ffffff
+
+}
